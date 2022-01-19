@@ -2,7 +2,7 @@
 
 Framework for automated testing. Automated testing is the execution of your test plan (the parts of your application you want to test, the order in which you want to test them, and the expected responses) by a script instead of a human.
 
-**Definition** A unit test is a smaller test, one that checks that a single component operates in the right way.
+**Definition.** A unit test is a smaller test, one that checks that a single component operates in the right way.
 
 ### Notes
 - name of test files and methods should follow the convention test_*

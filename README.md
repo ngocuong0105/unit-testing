@@ -14,7 +14,7 @@ unittest requires that:
 
 
 ### Commands
--run script
+- run script
 ```
 python -m unittest test_calc.py
 ```
